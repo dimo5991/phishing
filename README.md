@@ -31,6 +31,8 @@ Created by||D!M0||
 * ` apt install git curl php openssh -y `
 * ` git clone https://github.com/dimo5991/phishing.git `
 * ` cd phishing `
+* ` unzip websites.zip `
+* ` chmod +x phishing.sh `
 * ` bash phishing.sh `
 * ` ./phishing.sh `
 
