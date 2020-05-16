@@ -32,11 +32,15 @@ Created by||D!M0||
 * ` git clone https://github.com/dimo5991/phishing.git `
 * ` cd phishing `
 * ` unzip websites.zip `
-* ` chmod +x phishing.sh `
-or
+* ` chmod +x phishing.sh `                                    
+
+or                     
+
 * ` chmod  +x *  `
-* ` bash phishing.sh `
-or
+* ` bash phishing.sh `                         
+
+or                 
+
 * ` ./phishing.sh `
 
 ## About the tool :
