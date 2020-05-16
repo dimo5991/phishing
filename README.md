@@ -33,7 +33,10 @@ Created by||D!M0||
 * ` cd phishing `
 * ` unzip websites.zip `
 * ` chmod +x phishing.sh `
+or
+* ` chmod  +x *  `
 * ` bash phishing.sh `
+or
 * ` ./phishing.sh `
 
 ## About the tool :
